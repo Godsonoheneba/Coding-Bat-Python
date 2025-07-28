@@ -6,5 +6,13 @@ https://codingbat.com/python
 ## Structure
 
 - `String-1/` - Basic string manipulation problems
+- `List-2/` - List manipulation problems
+- `Logic-1/` - Logic problems
+- `Logic-2/` - Logic problems
+- `String-2/` - String manipulation problems
 
-*Screenshots of successful completions will be added later.*
+## Screenshots
+
+Below are screenshots showing successful completions of various problem sets:
+
+![Description](Screenshot.png)
