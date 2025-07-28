@@ -15,4 +15,4 @@ https://codingbat.com/python
 
 Below are screenshots showing successful completions of various problem sets:
 
-![Description](Screenshot.png)
+![Screenshot](Screenshot.png)
