@@ -20,4 +20,4 @@ Below are screenshots showing successful completions of various problem sets:
 
 
 
-![alt text](https://github.com/Godsonoheneba/Coding-Bat-Python/blob/master/Screenshot.png "CodingBat Python")
+![CodingBat Python](https://raw.githubusercontent.com/Godsonoheneba/Coding-Bat-Python/main/Screenshot.png "CodingBat Python")
