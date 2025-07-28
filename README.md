@@ -1,3 +1,4 @@
+
 # CodingBat Solutions
 
 This repository contains my solutions to various CodingBat coding challenges.
@@ -15,9 +16,4 @@ This repository contains my solutions to various CodingBat coding challenges.
 ## Screenshots
 
 Below are screenshots showing successful completions of various problem sets:
-
-
-
-
-
-![CodingBat Python](https://raw.githubusercontent.com/Godsonoheneba/Coding-Bat-Python/main/Screenshot.png "CodingBat Python")
+<img width="737" height="810" alt="Screenshot 2025-07-28 at 12 15 14 PM" src="https://github.com/user-attachments/assets/dbee4736-2832-4e74-9484-945dbb45df46" />
