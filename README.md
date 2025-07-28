@@ -1,7 +1,8 @@
 # CodingBat Solutions
 
 This repository contains my solutions to various CodingBat coding challenges.
-https://codingbat.com/python 
+
+[https://codingbat.com/python](https://codingbat.com/python "CodingBat Python")
 
 ## Structure
 
@@ -15,4 +16,8 @@ https://codingbat.com/python
 
 Below are screenshots showing successful completions of various problem sets:
 
-![Screenshot](Screenshot.png)
+
+
+
+
+![alt text](https://github.com/Godsonoheneba/Coding-Bat-Python/blob/master/Screenshot.png "CodingBat Python")
